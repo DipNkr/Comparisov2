@@ -28,34 +28,33 @@ def helloWorld(p):
         urls.append('https://www.flipkart.com'+a['href'])
         
         
-    products = list()
+    """products = list()
     for url in urls:
         product = dict()
         page_soup = BeautifulSoup(requests.get(url).text, 'html.parser')
-        
+
         name = page_soup.find('h1', {'class':'_9E25nV'})
         product['name'] = name.text
-        
+
         price = page_soup.find('div', {'class':'_1vC4OE _3qQ9m1'})
         product['price'] = price.text
 
         link=url
         product['URL']=link
 
-        
+
         ratingsAndReviews = page_soup.find('span', {'class':'_38sUEc'})
-        
+
         if ratingsAndReviews is None:
             product['ratingsAndReviews'] = '0 ratings & 0 reviews'
         else:
             product['ratingsAndReviews'] = ratingsAndReviews.text
-        
+
         products.append(product)
 
-        break
-    
-        
-    return {'products':products}
+        break"""
+    return urls[0]
+
 
 
 def getHtmlSourceCode(productName):
