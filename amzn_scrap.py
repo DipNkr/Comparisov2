@@ -23,7 +23,9 @@ def amzn_data(k):
         
  
         
-    return urls[0]
+    for url in urls:
+        return url
+        break
 
 
 
