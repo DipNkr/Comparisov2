@@ -11,8 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Comparisov2 | LinkedIn" width="22px" src="https://github.com/DipNkr" />][linkedin]
-<br />
+[<img align="left" alt="Comparisov2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 # Comparisov2
 Whatsapp Bot to scrap Flipkart and Amazon
