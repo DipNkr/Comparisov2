@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Comparisov2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/dipankar-debnath-11424285]
+[<img align="left" alt="Comparisov2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] www.linkedin.com/in/dipankar-debnath-11424285
 
 # Comparisov2
 Whatsapp Bot to scrap Flipkart and Amazon
